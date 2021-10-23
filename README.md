@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camila Alves.
 - 👀 I’m interested in learning languages.
-- 🌱 I’m currently learning English, Japanese and C language.
+- 🌱 I’m currently learning English, Japanese, C and C++.
 - 💞️ I’m looking to collaborate as I can.
 - 📫 How to reach me ...
 
